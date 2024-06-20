@@ -41,29 +41,14 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de um ebook sobre o tema Python, o ebook é do nicho de programaçao e o subnicho é de Python, sendo específico para o conteudo sobre dicionários, o título deve ser épico e curto, e tenha uma temática de jogo no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em dicionários do Python, explicando principais conceitos e métodos com exemplos em código. Faça a separação por capítulos.
-
-{REGRAS}
-
-Explique sempre de uma maneira simples
-Deixe o texto enxuto
-Sempre traga exemplos de código em contextos reais
-Sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em dicionários do Python, explicando principais conceitos e métodos com exemplos em código. Faça a separação por capítulos. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico |
 
 
 Bing:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Create a pixel art scene:
-
-Setting: A mystical fantasy world with misty mountains and glowing enchanted trees.
-
-Character: A wizard-programmer in pixel art, holding an ancient open grimoire with floating Python code.
-
-Include: An ancient vault emitting neon blue light.
-
-Style: Use vibrant neon blue colors. |
+| título | Create a pixel art scene: Setting: A mystical fantasy world with misty mountains and glowing enchanted trees. Character: A wizard-programmer in pixel art, holding an ancient open grimoire with floating Python code. Include: An ancient vault emitting neon blue light. Style: Use vibrant neon blue colors. |
 
 ## ✨ Features
 
