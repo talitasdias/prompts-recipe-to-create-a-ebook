@@ -77,8 +77,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/talitasdias">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/talita-dias-dev-tester/?originalSubdomain=br">LinkedIn</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://www.linkedin.com/in/talita-dias-dev-tester/?originalSubdomain=br">LinkedIn</a></p>
 </p>
 <br/><br/>
 <p>
