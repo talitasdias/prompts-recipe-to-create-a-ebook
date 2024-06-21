@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Bing](https://www.bing.com/images/create)
+- [Bing Image Creator](https://www.bing.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,7 +44,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em dicionários do Python, explicando principais conceitos e métodos com exemplos em código. Faça a separação por capítulos. Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga exemplos de código em contextos reais. Sempre deixe um título sugestivo por tópico |
 
 
-Bing:
+Bing Image Creator:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ Bing:
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Bing
+- Imagens geradas via Bing Image Creator
 
 ## 📚 Materiais
 
